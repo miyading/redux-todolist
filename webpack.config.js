@@ -23,7 +23,7 @@ module.exports = {
     root: '/src',
     
     //自动扩展文件后缀名,以后找require模块可以省略不写后缀名
-    extensions: ['', '.js', '.scss'],
+    extensions: ['', '.js', '.jsx', '.scss'],
     
     //模块别名定义,方便后续直接用别名
     alias: {
